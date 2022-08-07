@@ -11,6 +11,7 @@ Barcode scanning library for Android, using [ZXing][2] for decoding.
 The project is loosely based on the [ZXing Android Barcode Scanner application][2], but is not affiliated with the official ZXing project.
 
 Features:
+(优势)
 
 1. Can be used via Intents (little code required).
 2. Can be embedded in an Activity, for advanced customization of UI and logic.
