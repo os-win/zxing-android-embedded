@@ -25,7 +25,13 @@ A sample application is available in [Releases](https://github.com/journeyapps/z
 From version 3 this is a single library, supporting Gingerbread and later versions of Android
 (API level 9+). If you need support for earlier Android versions, use [version 2][4].
 
+从版本3开始，这是一个单一的库，支持姜饼和更高版本的Android
+
+（API等级9+）。如果您需要对早期Android版本的支持，请使用[version 2][4]。
+
 Add the following to your build.gradle file:
+将以下内容添加到您的build.gradle文件
+
 
 ```groovy
 repositories {
